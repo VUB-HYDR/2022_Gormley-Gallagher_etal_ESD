@@ -1,0 +1,20 @@
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+(0)	CA dataset total CA area: 1130111829.421503
+(0)	CA dataset total crop area: 1562426150.822131
+(0)	CA dataset CA to crop fraction: 72.33057567724728
+(0)	CA Scenario: alloc_CA_pot_v01_ha
+(0)	Number of grid cells where there is CA: 9488
+(0)	Number of grid cells where there is CLM C3 crop: 9924
+(0)	Area in km^2 where there is CA: 1131925137.61416
+(0)	Crop Area in km^2: 1563866877.496459
+(0)	% are that is CA: 72.37989076322276

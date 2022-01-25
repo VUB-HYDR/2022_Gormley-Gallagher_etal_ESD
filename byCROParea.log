@@ -1,0 +1,42 @@
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+(0)	CA dataset total CA area: 158316307.9999994
+(0)	CA dataset total crop area: 1562426150.822131
+(0)	CA dataset CA to crop fraction: 10.13272261967039
+(0)	CA Scenario: alloc_CA_base_v05_ha
+(0)	Number of grid cells where there is CA: 3298
+(0)	Number of grid cells where there is CLM C3 crop: 9924
+(0)	Area in km^2 where there is CA: 142201712.3030706
+(0)	Crop Area in km^2: 1563866877.496459
+(0)	% are that is CA: 9.092955055785593
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+(0)	CA dataset total CA area: 122062126.0000004
+(0)	CA dataset total crop area: 1562426150.822131
+(0)	CA dataset CA to crop fraction: 7.812345302577834
+(0)	CA Scenario: alloc_CA_low_v05_ha
+(0)	Number of grid cells where there is CA: 2971
+(0)	Number of grid cells where there is CLM C3 crop: 9924
+(0)	Area in km^2 where there is CA: 109517760.4913121
+(0)	Crop Area in km^2: 1563866877.496459
+(0)	% are that is CA: 7.003010426733718
+warning:Dimension (1) has not been defined
+(0)	lonFlip: warning: last dimension is not named
+(0)	CA dataset total CA area: 215202367.9999988
+(0)	CA dataset total crop area: 1562426150.822131
+(0)	CA dataset CA to crop fraction: 13.77360254030322
+(0)	CA Scenario: alloc_CA_high_v05_ha
+(0)	Number of grid cells where there is CA: 3751
+(0)	Number of grid cells where there is CLM C3 crop: 9924
+(0)	Area in km^2 where there is CA: 197933783.8605195
+(0)	Crop Area in km^2: 1563866877.496459
+(0)	% are that is CA: 12.65669007437416
